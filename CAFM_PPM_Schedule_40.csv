@@ -1,0 +1,41 @@
+PPM_ID,Property_Name,Department,Task,Scheduled_Date,Completed_Date,Completed_On_Time,Assigned_Technician
+PPM-001,Business Bay Tower A,HVAC,Chiller / AHU quarterly service,2026-01-05,2026-01-07,Yes,Joseph Fernandes
+PPM-002,DIFC Heights,BMS,BMS controller calibration,2026-01-12,2026-01-12,Yes,Suresh Patel
+PPM-003,Downtown Executive Bay,Fire Safety,Fire alarm panel test,2026-01-19,2026-01-21,Yes,Suresh Patel
+PPM-004,Dubai Hills Estate Block 3,Electrical,DB thermography & tightening,2026-01-26,2026-01-28,Yes,Rajesh Kumar
+PPM-005,JLT Cluster Red,Plumbing,Water pump inspection,2026-02-02,2026-02-02,Yes,Mohammed Ali
+PPM-006,JVC Mulberry Suites,Elevator,Elevator monthly service,2026-02-10,2026-02-11,Yes,Ahmed Hassan
+PPM-007,Marina Crown Tower,HVAC,Chiller / AHU quarterly service,2026-02-17,2026-02-17,Yes,Joseph Fernandes
+PPM-008,Palm Jumeirah Residence,BMS,BMS controller calibration,2026-02-24,2026-03-05,No,Suresh Patel
+PPM-009,Business Bay Tower A,Fire Safety,Fire alarm panel test,2026-03-03,2026-03-05,Yes,Suresh Patel
+PPM-010,DIFC Heights,Electrical,DB thermography & tightening,2026-03-10,2026-03-11,Yes,Rajesh Kumar
+PPM-011,Downtown Executive Bay,Plumbing,Water pump inspection,2026-03-18,2026-03-20,Yes,Mohammed Ali
+PPM-012,Dubai Hills Estate Block 3,Elevator,Elevator monthly service,2026-03-25,2026-03-25,Yes,Ahmed Hassan
+PPM-013,JLT Cluster Red,HVAC,Chiller / AHU quarterly service,2026-04-01,2026-04-01,Yes,Joseph Fernandes
+PPM-014,JVC Mulberry Suites,BMS,BMS controller calibration,2026-04-08,2026-04-10,Yes,Suresh Patel
+PPM-015,Marina Crown Tower,Fire Safety,Fire alarm panel test,2026-04-15,2026-04-17,Yes,Suresh Patel
+PPM-016,Palm Jumeirah Residence,Electrical,DB thermography & tightening,2026-04-23,2026-04-24,Yes,Rajesh Kumar
+PPM-017,Business Bay Tower A,Plumbing,Water pump inspection,2026-04-30,2026-05-02,Yes,Mohammed Ali
+PPM-018,DIFC Heights,Elevator,Elevator monthly service,2026-05-07,2026-05-08,Yes,Ahmed Hassan
+PPM-019,Downtown Executive Bay,HVAC,Chiller / AHU quarterly service,2026-05-14,2026-05-16,Yes,Joseph Fernandes
+PPM-020,Dubai Hills Estate Block 3,BMS,BMS controller calibration,2026-05-21,2026-05-28,No,Suresh Patel
+PPM-021,JLT Cluster Red,Fire Safety,Fire alarm panel test,2026-05-29,2026-05-30,Yes,Suresh Patel
+PPM-022,JVC Mulberry Suites,Electrical,DB thermography & tightening,2026-06-05,2026-06-07,Yes,Rajesh Kumar
+PPM-023,Marina Crown Tower,Plumbing,Water pump inspection,2026-06-12,2026-06-13,Yes,Mohammed Ali
+PPM-024,Palm Jumeirah Residence,Elevator,Elevator monthly service,2026-06-19,2026-06-19,Yes,Ahmed Hassan
+PPM-025,Business Bay Tower A,HVAC,Chiller / AHU quarterly service,2026-06-26,2026-06-26,Yes,Joseph Fernandes
+PPM-026,DIFC Heights,BMS,BMS controller calibration,2026-07-04,2026-07-05,Yes,Suresh Patel
+PPM-027,Downtown Executive Bay,Fire Safety,Fire alarm panel test,2026-07-11,2026-07-12,Yes,Suresh Patel
+PPM-028,Dubai Hills Estate Block 3,Electrical,DB thermography & tightening,2026-07-18,2026-07-19,Yes,Rajesh Kumar
+PPM-029,JLT Cluster Red,Plumbing,Water pump inspection,2026-07-25,2026-07-26,Yes,Mohammed Ali
+PPM-030,JVC Mulberry Suites,Elevator,Elevator monthly service,2026-08-01,2026-08-03,Yes,Ahmed Hassan
+PPM-031,Marina Crown Tower,HVAC,Chiller / AHU quarterly service,2026-08-09,2026-08-09,Yes,Joseph Fernandes
+PPM-032,Palm Jumeirah Residence,BMS,BMS controller calibration,2026-08-16,2026-08-27,No,Suresh Patel
+PPM-033,Business Bay Tower A,Fire Safety,Fire alarm panel test,2026-08-23,2026-08-23,Yes,Suresh Patel
+PPM-034,DIFC Heights,Electrical,DB thermography & tightening,2026-08-30,2026-08-31,Yes,Rajesh Kumar
+PPM-035,Downtown Executive Bay,Plumbing,Water pump inspection,2026-09-06,2026-09-06,Yes,Mohammed Ali
+PPM-036,Dubai Hills Estate Block 3,Elevator,Elevator monthly service,2026-09-14,2026-09-16,Yes,Ahmed Hassan
+PPM-037,JLT Cluster Red,HVAC,Chiller / AHU quarterly service,2026-09-21,2026-09-22,Yes,Joseph Fernandes
+PPM-038,JVC Mulberry Suites,BMS,BMS controller calibration,2026-09-28,2026-09-30,Yes,Suresh Patel
+PPM-039,Marina Crown Tower,Fire Safety,Fire alarm panel test,2026-10-05,2026-10-07,Yes,Suresh Patel
+PPM-040,Palm Jumeirah Residence,Electrical,DB thermography & tightening,2026-10-12,2026-10-13,Yes,Rajesh Kumar
